@@ -14,7 +14,7 @@
 const yuzu = () => {
   return {
     hobby: "Music, Game, & Turu",
-    bio: "Anything i Want."
+    bio: "Turu for Productivity."
   }
 }
 ```
