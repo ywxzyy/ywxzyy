@@ -1,7 +1,7 @@
 <h2 align="center"><br>
 
 <img src="https://media0.giphy.com/media/4xKJUTzWPAVoY/giphy.gif?cid=6c09b9527iykv4i64kzg6o96mxylf7v3sh60phwx4kfl9pqh&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g"/></p>
-> 𝘞𝘩𝘺 𝘺𝘰𝘶 𝘥𝘰𝘯'𝘵 𝘳𝘦𝘢𝘭𝘪𝘻𝘦 𝘮𝘺 𝘧𝘦𝘦𝘭𝘪𝘯𝘨𝘴.
+> why you don't realize my feelings.
 ----
 <p align="center"> 
   <samp>
