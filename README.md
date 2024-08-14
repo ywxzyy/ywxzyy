@@ -13,10 +13,8 @@
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31zpff6t6t36vc6smeetmu7agndi&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=31zpff6t6t36vc6smeetmu7agndi&redirect=true)
 
-<details align="center"><summary>𝚙𝚕𝚊𝚢𝚕𝚒𝚜𝚝</summary><br>
-</details>
 <p align="center"> 
-  𝐕𝐢𝐬𝐢𝐭𝐨𝐫 𝐂𝐨𝐮𝐧𝐭<br>
+  ᴠɪsɪᴛᴏʀ ᴄᴏᴜɴᴛ<br>
   <img src="https://profile-counter.glitch.me/ywxzyy/count.svg" />
 
 <!--p align="center"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/YuzuMocca?logo=twitter&style=for-the-badge" alt="yuzumocca" /></a-->
