@@ -22,11 +22,5 @@
 
 ###
 ```js
-const yuzu = () => {
-  return {
-    hobby: "Music, Game, & Turu",
-    bio: "Do what you want to do,"
-         + " whatever way."
-  }
-}
+import ywxzyy from "another-sekai";
 ```
