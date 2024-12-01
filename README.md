@@ -21,6 +21,13 @@
 <!--p align="center"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/YuzuMocca?logo=twitter&style=for-the-badge" alt="yuzumocca" /></a-->
 
 ###
-```js
-import ywxzyy from "another-sekai";
+```c++
+
+#include <iostream>
+
+int main() {
+    std::cout << "Yuzu!";
+    return 0;
+}
+
 ```
