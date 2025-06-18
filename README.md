@@ -7,7 +7,7 @@
 Rains fall because the clouds｀、ヽ｀
 ｀、ヽcan no longer handle the weight
    ヽ｀  、 ヽ｀       ヽ｀ヽ｀、ヽ｀
-Tears fall because the clouds｀、ヽ｀
+Tears fall because the heart｀、ヽ｀
 ｀、ヽcan no longer manage the pain.
 ｀、ヽ｀     ヽ｀、ヽ  、ヽ｀  ヽ｀、ヽ
 ```
